@@ -1,35 +1,36 @@
-Escape Velocity 2.5 by HTML5 UP
+Helios 1.5 by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A new responsive template featuring a flat (but not too flat) minimalistic design, spacious
-layout, and styling for all basic page elements. Its demo images* are courtesy of the supremely
-talented photographer Felicia Simion. If you like photography or just enjoy being blown away by
-awesome stuff, check out her portfolio for more stunning images:
+This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+to take advantage of larger (well, wider) displays while still being capable of gracefully
+scaling down to fit all manner of smaller ones.
+	
+Demo images* courtesy of Michael Domaradzki, an awesome photographer I know over at
+deviantART. Check out his portfolio here:
 
-http://ineedchemicalx.deviantart.com/
+http://mdomaradzki.deviantart.com/
 
-* Not included with this download (replaced with generic placeholders). Note that I only
-have permission to use her images in my on-site demos, so do NOT download and use any of
-Felicia's work without her explicit permission.
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+* Not included with this download (replaced with generic placeholder images). Please
+don't use his work without his permission.
 
 AJ
 n33.co @n33co dribbble.com/n33
 
 
-Credits:
+Credits
 
-	Images (Demo Only):
-		Felicia Simion (http://ineedchemicalx.deviantart.com/)
-
+	Images (Demo Only)
+		Michael Domaradzki (http://mdomaradzki.deviantart.com/)
+		
 	Icons
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
 
-	Other:
+	Other
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		jquery.dropotron (n33.co)
+		CSS3 Pie (css3pie.com)
+		background-size-polyfill (github.com/louisremi/background-size-polyfill)
 		skelJS (skeljs.org)
