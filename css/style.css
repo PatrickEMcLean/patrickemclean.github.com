@@ -12,6 +12,10 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+	#name {
+		white-space: pre;
+	}
+
 	body.paused *
 	{
 		-moz-transition: none;
@@ -392,7 +396,13 @@
 
 		ol.style1
 		{
+			list-style-type: decimal;	
 		}
+
+		ol {
+			list-style-type: decimal;
+			padding-left: 3em;	
+			}
 
 	/* Forms */
 
